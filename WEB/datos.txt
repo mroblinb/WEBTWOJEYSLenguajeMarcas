@@ -1,0 +1,2 @@
+Una vez terminado el trabajo de html y css, me creo una cuenta de github y subo el proyecto ahi, me dará un link url con el dominio de la web
+En https://www.xml-sitemaps.com/ puedo subir esa url y me va a crear automaticamente un xml de la web, para el primer punto del trabajo final

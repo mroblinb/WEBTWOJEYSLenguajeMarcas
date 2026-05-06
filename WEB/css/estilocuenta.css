@@ -1,0 +1,102 @@
+body {
+    font-family: 'Space Mono', monospace;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 930px;
+}
+
+.contenedor-principal {
+    background-color: white;
+    width: 450px;
+    height: 515px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedor1{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor2{
+    height: 350px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 0;
+}
+
+.logo {
+    width: 200px;
+    height: 60px;
+}
+
+.shop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.boton-shop {
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    border-color: #5433EB;
+    background-color: #5433EB;
+    color: white;
+    font-family: 'Space Mono', monospace;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario input,
+.formulario button {
+    margin-bottom: 20px;
+    height: 50px;
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+}
+
+.formulario input {
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 12px;
+    padding-left: 10px;
+}
+
+.formulario button {
+    border-width: 1px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.novedades {
+    cursor: pointer;
+    font-family: 'Space Mono', monospace;
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.contenedor2 p {
+    color: grey;
+}
+
