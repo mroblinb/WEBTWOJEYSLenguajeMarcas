@@ -219,7 +219,7 @@ header {
 
 .hero {
     height: 100vh;
-    background-image: url('/img/IMAGENMAIN.webp');
+    background-image: url('img/IMAGENMAIN.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -327,11 +327,11 @@ main {
 }
 
 .joya-oro2 {
-    background-image: url('/img/JOYASORO2.jpg');
+    background-image: url('img/JOYASORO2.jpg');
 }
 
 .joya-oro3 {
-    background-image: url('/img/NEGROCOLLAR.jpg');
+    background-image: url('img/NEGROCOLLAR.jpg');
 }
 
 /* TEXTO SOBRE IMAGEN */
@@ -376,7 +376,7 @@ main {
 
 .hero2 {
     height: 100vh;
-    background-image: url('/img/ESTRELLAROJA.png');
+    background-image: url('img/ESTRELLAROJA.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -568,7 +568,7 @@ main {
 .contenedor-imagen-logo {
     width: 40%;
     height: 200px;
-    background-image: url('/img/LOGOFOOTER.png');
+    background-image: url('img/LOGOFOOTER.png');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;

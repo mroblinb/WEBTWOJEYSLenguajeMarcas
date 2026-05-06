@@ -359,7 +359,7 @@ header {
 .contenedor-imagen-logo {
     width: 40%;
     height: 200px;
-    background-image: url('/img/LOGOFOOTER.png');
+    background-image: url('img/LOGOFOOTER.png');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
